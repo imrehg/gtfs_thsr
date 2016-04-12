@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone
+o-wsj-TWHSR,Taiwan High Speed Rail Corporation,http://www.thsrc.com.tw/,Asia/Taipei
