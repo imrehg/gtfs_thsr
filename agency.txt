@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_fare_url
-o-wsj-TWHSR,Taiwan High Speed Rail Corporation,http://www.thsrc.com.tw/,Asia/Taipei,+886-2-4066-3000,http://www5.thsrc.com.tw/en/ticket/tic_time_search.asp
+o-wsj-THSR,Taiwan High Speed Rail Corporation,http://www.thsrc.com.tw/,Asia/Taipei,+886-2-4066-3000,http://www5.thsrc.com.tw/en/ticket/tic_time_search.asp

@@ -1,0 +1,12 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
+s-wsqqmpy19neh-taipeihsr,Taipei,,25.047748,121.517076,,,0,
+s-wsqq7cxn30m9-banquaohsr,Banqiao,,25.014197,121.463521,,,0,
+s-wsqnq33yzj43-taoyuanhsr,Taoyuan,,25.012935,121.214865,,,0,
+s-wsqj4k4v37dy-hsinchuhsr,Hsinchu,,24.808050,121.040211,,,0,
+s-wsmgvrq3cyv9-miaolihsr,Miaoli,,24.605592,120.825316,,,0,
+s-wsmc0tmu3t19-taichunghsr,Taichung,,24.111627,120.615873,,,0,
+s-wsjxzdpgumqw-changhuahsr,Changhua,,23.873964,120.574799,,,0,
+s-wsjxh1h3u717-yunlinhsr,Yunlin,,23.736279,120.416177,,,0,
+s-wsjt6n8v2ug1-chiayihsr,Chiayi,,23.459484,120.323332,,,0,
+s-wsjd3jm6rejk-tainanhsr,Tainan,,22.924750,120.285859,,,0,
+s-wsj91dhcyzcd-zuoyinghsr,Zuoying,,22.687110,120.307108,,,0,
